@@ -1,3 +1,6 @@
+#ShazamToGplay.py
+#Copyright 2015 Mark Beznos
+#Under GPLv3 license
 __version__ = "0.0.1"
 #For use with Python 2.7, as gmusicapi has no support for 3.0
 #will eventually make 
